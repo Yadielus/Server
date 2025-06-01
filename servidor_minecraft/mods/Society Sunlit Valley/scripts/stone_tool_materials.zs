@@ -1,1 +1,0 @@
-<tag:items:minecraft:stone_tool_materials>.add(<item:biomeswevegone:rocky_stone>);
