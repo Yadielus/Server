@@ -44,3 +44,11 @@
 [01Jun2025 18:08:17.361] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5513 ms
 [01Jun2025 18:08:17.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.610s)! For help, type "help"
 [01Jun2025 18:08:17.381] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01Jun2025 18:31:53.624] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yadielus[/100.115.150.117:63075] logged in with entity id 210 at (-16.979818005185383, 101.0, 41.03016687971882)
+[01Jun2025 18:31:53.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yadielus joined the game
+[01Jun2025 18:32:02.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yadielus lost connection: Disconnected
+[01Jun2025 18:32:02.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yadielus left the game
+[01Jun2025 18:35:51.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yadielus[/100.115.150.117:63523] logged in with entity id 265 at (-16.979818005185383, 101.0, 41.03016687971882)
+[01Jun2025 18:35:51.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yadielus joined the game
+[01Jun2025 18:36:03.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yadielus lost connection: Disconnected
+[01Jun2025 18:36:03.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yadielus left the game
