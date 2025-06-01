@@ -11,30 +11,44 @@
   "trees": {
     "genericTree": {
       "algorithm": {
-        "maxLeavesRadius": 7,
+        "maxLeavesRadius": 10,
         "maxLogAmount": 256,
         "shouldIgnorePersistentLeaves": true
       },
       "logFilter": {
         "whitelistedTags": [
-          "minecraft:logs"
+          "minecraft:logs",
+          "regions_unexplored:branches",
+          "regions_unexplored:joshua_logs",
+          "c:logs",
+          "regions_unexplored:brimwood_logs"
         ],
-        "whitelist": [],
+        "whitelist": [
+          "mysticsbiomes:cherry_log",
+          "mysticsbiomes:strawberry_log",
+          "mysticsbiomes:peach_log",
+          "mysticsbiomes:maple_log",
+          "mysticsbiomes:sea_foam_log",
+          "mysticsbiomes:tropical_log",
+          "mysticsbiomes:jacaranda_log"
+        ],
         "blacklist": []
       },
       "leavesFilter": {
         "whitelistedTags": [
           "minecraft:leaves",
-          "society:palm_leaves"
+          "regions_unexplored:branches",
+          "c:leaves"
         ],
         "whitelist": [],
         "blacklist": []
       },
       "enabled": true,
-      "requireTool": false,
+      "requireTool": true,
       "allowedToolFilter": {
         "whitelistedTags": [
-          "minecraft:axes"
+          "minecraft:axes",
+          "obsidianequipment:axes"
         ],
         "whitelist": [],
         "blacklist": []

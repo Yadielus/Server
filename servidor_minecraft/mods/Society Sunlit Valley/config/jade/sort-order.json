@@ -1,10 +1,9 @@
 {
   "balm:jade": null,
-  "botania_editor:botania_flower": null,
-  "botania_editor:botania_mana": null,
-  "botania_editor:botania_spreader": null,
-  "botania_editor:botania_spreader_advanced": null,
-  "corpse:corpse": null,
+  "beautify:hanging_pot.pot_flower": null,
+  "beautify:lamp_jar.glowstone_dust": null,
+  "beautify:trellis.pot_plant": null,
+  "camerapture:picture_frame": null,
   "create:backtank_capacity": null,
   "create:blaze_burner": null,
   "create:contraption_inv": null,
@@ -14,8 +13,6 @@
   "create:goggles": null,
   "create:hide_boiler_tanks": null,
   "create:placard": null,
-  "exposure:lightroom": null,
-  "exposure:photograph_frame": null,
   "jade:block_face": null,
   "jade:distance": null,
   "jade:mod_name": null,
@@ -64,13 +61,7 @@
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
   "minecraft:zombie_villager": null,
-  "quality_food:quality": null,
-  "splendid_slimes:splendid_slime": null,
   "supplementaries:hat_stand": null,
   "supplementaries:present": null,
-  "supplementaries:safe": null,
-  "treechop:plugin": null,
-  "treetap:tap": null,
-  "untitledduckmod:lay_egg": null,
-  "waystones:waystone": null
+  "supplementaries:safe": null
 }

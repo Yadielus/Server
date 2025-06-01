@@ -2,9 +2,9 @@
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
-    "harvest_tool.show_unbreakable": false,
+    "harvest_tool.show_unbreakable": true,
     "animal_owner": true,
-    "harvest_tool.effective_tool": true,
+    "harvest_tool.effective_tool": false,
     "item_storage.normal_amount": 9,
     "item_storage": true,
     "harvest_tool": true,
@@ -37,7 +37,7 @@
     "block_states": false,
     "lectern": true,
     "entity_armor": true,
-    "harvest_tool.creative": false,
+    "harvest_tool.creative": true,
     "horse_stats": true,
     "item_tooltip": true,
     "entity_health": true,
@@ -51,13 +51,14 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "splendid_slimes": {
-    "splendid_slime": true
+  "camerapture": {
+    "picture_frame": true
   },
-  "treechop": {
-    "plugin": true,
-    "show_tree_block_counts": true,
-    "show_num_chops_remaining": true
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "supplementaries": {
+    "hat_stand": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -66,28 +67,6 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
-  },
-  "quality_food": {
-    "quality": true
-  },
-  "lootr": {
-    "info": true
-  },
-  "balm": {
-    "jade": true
-  },
-  "jadeaddons": {
-    "equipment_requirement": ""
-  },
-  "exposure": {
-    "lightroom": true,
-    "photograph_frame": true
-  },
-  "untitledduckmod": {
-    "lay_egg": true
-  },
-  "supplementaries": {
-    "hat_stand": true
   },
   "create": {
     "filter": true,
@@ -100,10 +79,15 @@
     "goggles.detailed": false,
     "placard": true
   },
-  "waystones": {
-    "waystone": true
+  "beautify": {
+    "lamp_jar.glowstone_dust": true,
+    "trellis.pot_plant": true,
+    "hanging_pot.pot_flower": true
   },
-  "treetap": {
-    "tap": true
+  "lootr": {
+    "info": true
+  },
+  "balm": {
+    "jade": true
   }
 }

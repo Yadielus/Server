@@ -1,4 +1,3 @@
-
 #Client Configuration
 [client]
 
@@ -72,4 +71,3 @@
 		# Volume of challenge sounds.  Set to 0 to mute.
 		#Range: 0.0 ~ 1.0
 		challenge_volume = 1.0
-
